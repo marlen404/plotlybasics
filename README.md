@@ -14,3 +14,7 @@ venv\Scripts\activate
 ```
 pip install plotly
 ```
+#### plotly nutzt pandas
+```
+pip install pandas
+```
